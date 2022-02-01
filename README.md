@@ -7,7 +7,7 @@
 # About me
 
 ## Hard skills
-  In progress...
+  Currently concentrating on UiPath. 
   
 ## Soft skills
 
