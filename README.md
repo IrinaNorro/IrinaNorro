@@ -28,11 +28,9 @@
     And also, pursuing towards being more imperfect, sometimes it's hard, but I'm getting better at it every day. 
     Perfectionists get rarely things done by given deadline, don't you think. 
 
-### Other
-  Wouldn't call myself a joke generator, but I do love to laugh at other people's (bad) jokes. Just give it a try :D <br>
-  Moved to three countries. (Can speak or listen more or less fluently six languages.)
-  Travelled 20 000 km by train. 
-  Studying my third degree. 
-  Mother. Boom.
-
-
+ ### Other
+    Wouldn't call myself a joke generator, but I do love to laugh at other people's (bad) jokes. Just give it a try :D <br>
+    Moved to three countries. (Can speak or listen more or less fluently six languages.)
+    Travelled 20 000 km by train. 
+    Studying my third degree. 
+ 
