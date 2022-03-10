@@ -7,7 +7,7 @@
 # About me
 
 ## Hard skills
-  Currently concentrating on learninf UiPath and Python. 
+  Currently concentrating on learning UiPath and Python. 
   
 ## Soft skills
 
