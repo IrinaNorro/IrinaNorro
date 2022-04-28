@@ -33,8 +33,8 @@
   
   ### Team Player
     Studying during Covid got me finally realize I really enjoy people's company and good team work, where the whole team 
-    is determined in finding a solution for a challenge. But I do also enjoy peace and silence from time to time and concentrate 
-    best in my own company. 
+    is determined in finding a solution for a challenge. But I do also enjoy peace and silence from time to time and 
+    concentrate best in my own company. 
   
   ### Multitalent
     I have wide expertise in Team Assistant / Executive Assistant roles, where I have diven in exciting world of 
@@ -64,8 +64,8 @@
     But have improved a lot. I even enjoy it now.
   
   ### Being comfy in discomfort zone. 
-    Getting myself in new unknown situations is my middle name. I like exploring new areas, places, ideas, life stories of people. 
-    I think this is one of my biggest advantages in learning to code. 
+    Getting myself in new unknown situations is my middle name. I like exploring new areas, places, ideas, 
+    life stories of people. I think this is one of my biggest advantages when learning to code. 
 
  ### Pursuing Imperfection
     “It is wise to recognize we are all imperfect in some way.”
@@ -74,11 +74,11 @@
     It is great wisdom to know when to stop. Perfectionists get rarely things done by given deadline, don't you think. 
 
  ### Random stuff about me
-    Wouldn't call myself a joke generator, but I do love to laugh at other people's (bad) jokes. Just give it a try :D 
-    Moved to three countries, to Finland, Germany, South-Korea. Can speak or listen more or less fluently six languages.
-    Travelled 20 000 km by train from Finland to Southern China. 
-    Studying my third degree.
-    Love to hang around at our summer cottage by the sea.
-    Enjoy hiking in jungles in Brasil, Buddhist pilgrimages in China or fills in Lapland.
-    ANd I just resently learned downhill skiing.
+   - Wouldn't call myself a joke generator, but I do love to laugh at other people's (bad) jokes. Just give it a try :D 
+   - Moved to three countries, to Finland, Germany, South-Korea. Can speak or listen more or less fluently six languages.
+   - Travelled 20 000 km by train from Finland to Southern China. 
+   - Studying my third degree.
+   - Love to hang around at our summer cottage by the sea.
+   - Enjoy hiking in jungles in Brasil, Buddhist pilgrimages in China or fills in Lapland.
+    - And I just resently learned downhill skiing.
  
