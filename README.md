@@ -4,7 +4,7 @@
 
 
 
-# About me
+# About me - Irina, Future RPA Developer
 
 ## Hard skills
   Currently concentrating on deepening knowledge on RPA tools UiPath Studio and Python. 
@@ -32,8 +32,25 @@
     And also highly value other people's deep knowledge and not afraid to ask for help and quidance when needed. 
   
   ### Team Player
-    Studying during Covid got me finally realize I really enjoy people's company and good team work, where the whole team is determined
-    in finding a solution for a challenge. But I do also enjoy peace and silence from time to time and concentrate best in my own company. 
+    Studying during Covid got me finally realize I really enjoy people's company and good team work, where the whole team 
+    is determined in finding a solution for a challenge. But I do also enjoy peace and silence from time to time and concentrate 
+    best in my own company. 
+  
+  ### Multitalent
+    I have wide expertise in Team Assistant / Executive Assistant roles, where I have diven in exciting world of 
+    - Customer Service
+    - HR
+    - Financial Management 
+    
+    I have also wide expertise in Health Care, Education and Early Education Industries and have experience following areas:
+    - Early Childhood Pedagogy
+    - School Assistance
+    - Care of people with Special need
+    - Care for Elderly
+    And have used many various technologies in daily work life.
+    
+    I see this as a huge advantage when possibly working in future with customers in different industries. 
+    I can handle anything starting from HealtTech, EdTech, Finance, CRM, HR and beyond. 
 
   ### Stubborn
     Or maybe you want to call it determined. It got me to places and got me achieve many dreams. 
@@ -56,8 +73,9 @@
  ### Random stuff about me
     Wouldn't call myself a joke generator, but I do love to laugh at other people's (bad) jokes. Just give it a try :D 
     Moved to three countries, to Finland, Germany, South-Korea. Can speak or listen more or less fluently six languages.
-    Travelled 20 000 km by train. 
+    Travelled 20 000 km by train from Finland to Southern China. 
     Studying my third degree.
     Love to hang around at our summer cottage by the sea.
-    Just resently learned downhill skiing.
+    Enjoy hiking in jungles in Brasil, Buddhist pilgrimages in China or fills in Lapland.
+    ANd I just resently learned downhill skiing.
  
