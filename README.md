@@ -42,14 +42,17 @@
     - HR
     - Financial Management 
     
-    I have also wide expertise in Health Care, Education and Early Education Industries and have experience following areas:
+    I have also wide expertise in Health Care, Education and Early Education and have experience in following areas:
     - Early Childhood Pedagogy
     - School Assistance
-    - Care of people with Special need
+    - Care for people with Special need
     - Care for Elderly
-    And have used many various technologies in daily work life.
+    And have used many various technologies in these Industries in daily work life.
     
     I see this as a huge advantage when possibly working in future with customers in different industries. 
+    I have understanding in people's needs in these areas, which helps to relate to their challenges and 
+    can  help in finding better solutions.
+    
     I can handle anything starting from HealtTech, EdTech, Finance, CRM, HR and beyond. 
 
   ### Stubborn
