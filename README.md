@@ -51,9 +51,15 @@
     
     I see this as a huge advantage when possibly working in future with customers in different industries. 
     I have understanding in people's needs in these areas, which helps to relate to their challenges and 
-    can  help in finding better solutions.
+    may help in finding better solutions.
     
     I can handle anything starting from HealtTech, EdTech, Finance, CRM, HR and beyond. 
+  
+  ### Internationality
+     I have moved to three countries, to Finland, Germany and South-Korea in roles of student and guest worker in Education and 
+     Hotel Industry. I can speak or listen more or less fluently six languages. I have also travelled a lot, and met people from 
+     around the Globe. I find it natural to include different people from different backgrounds in converstations. I was working 
+     in multinational company (Wipro) and that gave me also confidence to use English in everyday life. 
 
   ### Stubborn
     Or maybe you want to call it determined. It got me to places and got me achieve many dreams. 
@@ -75,10 +81,8 @@
 
  ### Random stuff about me
    - Wouldn't call myself a joke generator, but I do love to laugh at other people's (bad) jokes. Just give it a try :D 
-   - Moved to three countries, to Finland, Germany, South-Korea. Can speak or listen more or less fluently six languages.
    - Travelled 20 000 km by train from Finland to Southern China. 
-   - Studying my third degree.
    - Love to hang around at our summer cottage by the sea.
    - Enjoy hiking in jungles in Brasil, Buddhist pilgrimages in China or fills in Lapland.
-    - And I just resently learned downhill skiing.
+   - And I just resently learned downhill skiing.
  
