@@ -60,5 +60,6 @@
    - Love to hang around at our summer cottage by the sea.
    - Enjoy hiking in jungles in Brasil, Buddhist pilgrimages in China or fills in Lapland.
    - Just resently learned downhill skiing.
-   - Moved from capital to countryside to enjoy more my leisure time. 
- 
+   - Moved from capital to countryside to enjoy more my leisure time.
+    
+ ![image_6483441_leikattu](https://user-images.githubusercontent.com/80334153/166921077-1815b3ba-1707-483f-a988-f58a1c035938.jpg)
