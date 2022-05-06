@@ -32,7 +32,7 @@
   
   ### Intellectually Independent
   - I like to get myself in new unknown situations and push my boundaries a bit, that helped with learning to code.
-  - My stubborness and determination has gotten me achieve many dreams
+  - My stubborness and determination has gotten me achieve many dreams.
   
   ### Multitalent
    I have deep expertise in Team Assistant / Executive Assistant roles, where I have diven in exciting world of 
@@ -46,8 +46,8 @@
    - Care for people with Special need
    - Care for Elderly
     
-   - Have used many technologies in these industries in daily work life.
-   - I see this as a huge advantage when possibly working in future with customers in different industries. 
+   Have used many technologies in these industries in daily work life.
+   I see this as a huge advantage when possibly working in future with customers in different industries. 
   
   ### Internationality
    - I have moved to three countries, to Finland, Germany and South-Korea in roles of student and guest worker in Education and 
