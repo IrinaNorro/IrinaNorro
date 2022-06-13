@@ -5,7 +5,7 @@
 ## Hard skills
   Currently concentrating on deepening knowledge on RPA tools UiPath Studio, Python and GIT. 
   
-### Advanced knowledge on:
+### A bit above Basic knowledge on:
 - RPA: UiPath Studio, UiPath StudioX
 - Microsoft Office: Word, Excel, PowerPoint, Outlook, SharePoint
 - Data Analytics: Excel Pivot, Power BI
