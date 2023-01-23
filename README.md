@@ -6,18 +6,18 @@
   Currently concentrating on deepening knowledge on RPA tools UiPath Studio, Python and GIT. 
   
 ### A bit above Basic knowledge on:
-- RPA: UiPath Studio, UiPath StudioX
+- RPA: UiPath Studio, UiPath StudioX, Python, Robot Framework
 - Microsoft Office: Word, Excel, PowerPoint, Outlook, SharePoint
 - Data Analytics: Excel Pivot, Power BI
   
 ### Basic understanding on:
-  - Database: MySQL
+  - Database: MySQL, NoSQL
   - Languages: Java, Python
   - Unit Testing, Web Testing: RobotLab / Python
   - AI: Microsoft Azure Custom Vision, Google Dialogflow ES
   - Web Design: HTML5, CSS, PHP, Javascript, WordPress
   - UX/UI: Figma
-  - Operating Systems: Windows, MacOS
+  - Operating Systems: Windows, MacOS, (Linux)
   - Other: Agile, Software Requirements Spesification, Digital Marketing (Google Ad Sert)
   
 ## Soft skills
