@@ -13,12 +13,12 @@
 ### Basic understanding on:
   - Database: MySQL, NoSQL
   - Languages: Java, Python
-  - Unit Testing, Web Testing: RobotLab / Python
+  - Unit Testing, Web Testing, Test Automaiton: RobotLab / Python, VSCode
   - AI: Microsoft Azure Custom Vision, Google Dialogflow ES
   - Web Design: HTML5, CSS, PHP, Javascript, WordPress
   - UX/UI: Figma
   - Operating Systems: Windows, MacOS, (Linux)
-  - Other: Agile, Software Requirements Spesification, Digital Marketing (Google Ad Sert)
+  - Other: Agile, Software Requirements Spesification, Digital Marketing (Google Ad Sert), Jira, Jenkins, GIT, JSON
   
 ## Soft skills
 
