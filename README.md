@@ -1,6 +1,6 @@
 
 
-# About me - Irina, Future RPA Developer
+# About me - Irina, Future Automation Developer
 
 ## Hard skills
   Currently concentrating on deepening knowledge on RPA tools UiPath Studio, Python and GIT. 
