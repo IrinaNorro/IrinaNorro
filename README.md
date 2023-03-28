@@ -3,7 +3,7 @@
 # About me - Irina, Future Automation Developer
 
 ## Hard skills
-  Currently concentrating on deepening knowledge on RPA tools UiPath Studio, Python and GIT. 
+  Currently concentrating on deepening knowledge on RPA tools UiPath Studio, Robot Framework, Python and GIT. 
   
 ### A bit above Basic knowledge on:
 - RPA: UiPath Studio, UiPath StudioX, Python, Robot Framework
